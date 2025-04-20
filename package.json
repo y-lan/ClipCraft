@@ -1,0 +1,16 @@
+{
+  "name": "clipcraft",
+  "version": "0.1.0",
+  "description": "Chrome extension to convert HTML to markdown",
+  "private": true,
+  "scripts": {
+    "lint": "eslint .",
+    "dev": "echo 'No build step required. Use Chrome Load Unpacked.'"
+  },
+  "dependencies": {
+    "markdown-it": "^13.0.1"
+  },
+  "devDependencies": {
+    "eslint": "^8.45.0"
+  }
+} 
