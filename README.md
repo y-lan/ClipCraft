@@ -1,4 +1,6 @@
-ClipCraft is a tiny, elegant, and beautiful Chrome extension used to select a given element from the current page using a mouse and convert the raw HTML of the selected part into LLM-friendly markdown text, then copy it to the clipboard; it already shows a small message on the right bottom part of the page that auto-disappears. We activate this feature via clicking the extension icon.
+# ClipCraft
+
+A tiny, elegant, and beautiful Chrome extension used to select a given element from the current page using a mouse and convert the raw HTML of the selected part into LLM-friendly markdown text, then copy it to the clipboard; it already shows a small message on the right bottom part of the page that auto-disappears. We activate this feature via clicking the extension icon.
 
 ## Installation
 1. Run `npm install` (only lint/dev). No build step required.
